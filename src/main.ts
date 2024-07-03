@@ -1,7 +1,9 @@
 import "./style.css";
 
-/* Podríamos utilizar let o const para las variables. 
-Pero he decidido hacer la aplicación reutilizable para otras ocasiones, por ejemplo al año que viene voy a invitar de nuevo, y los precios pueden haber variados así como el número de comensales, asi que utilizo let*/
+// Podríamos utilizar let o const para las variables. 
+// Pero he decidido hacer la aplicación reutilizable para otras ocasiones, 
+// por ejemplo al año que viene voy a invitar de nuevo, 
+// y los precios pueden haber variados así como el número de comensales, asi que utilizo let
 
 let TotalCena: number = 120;
 let TotalBebidas: number = 18;
