@@ -34,8 +34,10 @@ Dado que la redacción es "Tiene un grupo de 6 amigos", entederé que se pretend
 4. Solución: cada uno de mis amigos paga 17€ y yo pago 35€ (17€  + 18€).
 
 ```
-/* Podríamos utilizar let o const para las variables. 
-Pero he decidido hacer la aplicación reutilizable para otras ocasiones, por ejemplo al año que viene voy a invitar de nuevo, y los precios pueden haber variados así como el número de comensales, asi que utilizo let*/
+// Podríamos utilizar let o const para las variables. 
+// Pero he decidido hacer la aplicación reutilizable para otras ocasiones, 
+// por ejemplo al año que viene voy a invitar de nuevo, 
+// y los precios pueden haber variados así como el número de comensales, asi que utilizo let
 
 let TotalCena: number = 120;
 let TotalBebidas: number = 18;
